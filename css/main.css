@@ -1329,11 +1329,11 @@ header .logo a {
 	font-family: "poppins-medium", sans-serif;
 	font-size: 8.4rem;
 	line-height: 1.071;
-	max-width: 900px;
+	max-width: 1000px;
 	margin-top: 0;
 	margin-bottom: .6rem;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 0;
+	margin-right: 0;
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .intro-content h5 {
